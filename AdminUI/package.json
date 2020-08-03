@@ -20,5 +20,8 @@
   "homepage": "https://github.com/RagulMylsamy/KCT-Project1#readme",
   "devDependencies": {
     "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "font-awesome": "^4.7.0"
   }
 }
